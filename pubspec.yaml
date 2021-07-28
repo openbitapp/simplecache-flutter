@@ -9,8 +9,8 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  gl_functional:
-    path: ../gl_functional-flutter
+  functional_dart:
+    path: ../functional-dart
 
 dev_dependencies:
   pedantic: ^1.10.0
