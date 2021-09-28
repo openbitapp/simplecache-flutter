@@ -1,4 +1,4 @@
-import 'package:functional_dart/functional_dart.dart';
+import 'package:bitapp_functional_dart/bitapp_functional_dart.dart';
 
 /// Interfaccia del servizio di cache da specificare nel service locator.\
 /// Usata nei ViewModels e nel file service_locator.dart
